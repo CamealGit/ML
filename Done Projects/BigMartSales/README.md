@@ -26,7 +26,7 @@ This project focuses on predicting sales for Big Mart items using the XGBoost Ra
    - Split the dataset into training and testing sets.
 6. **Model Building**:
    - Initialized and trained an `XGBRFRegressor` model from the XGBoost library.
-7. **Model Evaluation**:
+7. **Model Evaluation**: 
    - Predicted sales on training and test data.
    - Calculated and printed the R² score for both training and test data to evaluate model performance.
 
