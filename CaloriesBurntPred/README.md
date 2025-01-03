@@ -36,7 +36,7 @@ This project involves predicting the number of calories burnt during exercise ba
 
 ## Results
 
-- **MAE**: The model achieved a mean absolute error of **{insert MAE value}**, indicating its performance in predicting calories burnt.
+- **MAE**: The model achieved a mean absolute error of **1.48**, indicating its performance in predicting calories burnt.
 
 ## Conclusion
 
